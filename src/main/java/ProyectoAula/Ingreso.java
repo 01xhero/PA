@@ -9,13 +9,7 @@ import javax.swing.JOptionPane;
 public class Ingreso extends javax.swing.JFrame {
 
     public Ingreso(){
-        initComponents();
-        this.setLocationRelativeTo(null);
-        this.setTitle("Proyecto de aula");
-        lPlaca.setVisible(false);
-        lCiudad.setVisible(false);
-        tPlaca.setVisible(false);
-        Ciudades.setVisible(false);
+       
     }
 
     @SuppressWarnings("unchecked")
