@@ -6,4 +6,3 @@ Carlos⁋Bicicleta⁋N/A⁋N/A⁋09 | 12:23:12⁋09 | 13:45:23
 Pablo⁋Moto⁋ASD-12A⁋San Juan Nepomuceno⁋12 | 22:25:05⁋12 | 14:44:10
 Felipe May⁋Auto⁋EGR-003⁋Arjona⁋02 | 07:28:34⁋N/A
 Addel Perez⁋Auto⁋DFG-123⁋Cartagena⁋02 | 07:35:07⁋02 | 07:38:02
-Emanuel⁋Auto⁋ABC-145⁋Santa Rosa⁋02 | 10:26:47⁋02 | 10:27:15
