@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="Posicion1" min="-2" pref="97" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion2" min="-2" pref="97" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion3" min="-2" pref="97" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion4" min="-2" pref="97" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="Posicion5" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion9" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion10" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion11" min="-2" pref="97" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Posicion6" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion12" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion13" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion14" min="-2" pref="97" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Posicion7" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion15" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion16" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion17" min="-2" pref="97" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="Posicion8" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion18" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion19" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="Posicion20" min="-2" pref="97" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Component id="Posicion1" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion5" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion6" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion7" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Posicion8" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Component id="Posicion2" min="-2" pref="46" max="-2" attributes="0"/>
+          <Group type="103" groupAlignment="3" attributes="0">
+              <Component id="Posicion3" alignment="3" min="-2" pref="46" max="-2" attributes="0"/>
+              <Component id="Posicion4" alignment="3" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="52" pref="52" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Posicion9" min="-2" pref="46" max="-2" attributes="0"/>
+                  <Component id="Posicion10" min="-2" pref="46" max="-2" attributes="0"/>
+                  <Component id="Posicion11" min="-2" pref="46" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="104" pref="104" max="-2" attributes="0"/>
+              <Component id="Posicion12" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="104" pref="104" max="-2" attributes="0"/>
+              <Component id="Posicion13" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="104" pref="104" max="-2" attributes="0"/>
+              <Component id="Posicion14" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="156" pref="156" max="-2" attributes="0"/>
+              <Component id="Posicion15" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="156" pref="156" max="-2" attributes="0"/>
+              <Component id="Posicion16" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="156" pref="156" max="-2" attributes="0"/>
+              <Component id="Posicion17" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="208" pref="208" max="-2" attributes="0"/>
+              <Component id="Posicion18" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="208" pref="208" max="-2" attributes="0"/>
+              <Component id="Posicion19" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="208" pref="208" max="-2" attributes="0"/>
+              <Component id="Posicion20" alignment="0" min="-2" pref="46" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="Posicion1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 9"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 13"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Posicion7ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 17"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 6"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Posicion9ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 7"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 8"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 10"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Posicion12ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 11"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 12"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 14"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 15"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 16"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion18">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 18"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 19"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Posicion20">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Posicion 20"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
